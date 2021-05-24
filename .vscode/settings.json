@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Anaconda3_for_pyjem_2\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "C:\\Anaconda3_for_pyjem_2\\Lib\\site-packages"
+    ]
+}
